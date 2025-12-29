@@ -1,4 +1,4 @@
-<![CDATA[## Hi there, I'm Seina Arakaki 👋
+## Hi there, I'm Seina Arakaki 👋
 
 A Flutter/Dart engineer passionate about mobile app development and building CI/CD tools that improve developer experience.
 
@@ -46,4 +46,3 @@ A Flutter/Dart engineer passionate about mobile app development and building CI/
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anies1212&color=blue&style=flat-square" alt="Profile Views" />
 </p>
-]]>
