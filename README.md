@@ -24,7 +24,7 @@ A Flutter/Dart engineer passionate about mobile app development and building CI/
 
 | Project | What it solves | Why I built it | Level | Skills |
 |---------|---------------|----------------|-------|--------|
-| [specsentinel](https://github.com/anies1212/specsentinel) | Manual UI review against Figma specs misses padding/font mismatches | Automate design-to-code verification in CI pipeline | 🏭 Production | Static Analysis, Figma API, GitHub Actions |
+| [specsentinel](https://github.com/anies1212/specsentinel) | Manual UI review against Figma specs misses padding/font mismatches | Automate design-to-code verification in CI pipeline | 🚧 MVP | Static Analysis, Figma API, GitHub Actions |
 | [store-review-monitor](https://github.com/anies1212/store-review-monitor) | Manually checking App Store/Google Play review status delays response | Get instant Slack notifications when review status changes | 🏭 Production | App Store Connect API, Google Play API, Go, TypeScript |
 | [flutter-deadline](https://github.com/anies1212/flutter-deadline) | Temporary code (workarounds, feature flags) accumulates as tech debt | Track code expiration dates and notify team via Slack | 🏭 Production | Dart Annotations, AST Parsing, GitHub Actions |
 | [tag-release-bridge](https://github.com/anies1212/tag-release-bridge) | Manually listing merged PRs for release notes is time-consuming | Auto-generate release summaries grouped by author and category | 🏭 Production | GitHub API, PR Automation, TypeScript |
