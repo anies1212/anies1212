@@ -13,20 +13,22 @@ A Flutter/Dart engineer passionate about mobile app development and building CI/
 
 ### 🚀 Featured Projects
 
-#### Flutter/Dart
-| Project | Description |
-|---------|-------------|
-| [iris_camera](https://github.com/anies1212/iris_camera) | AVFoundation-powered Flutter camera plugin with safe permission handling and structured error handling |
-| [supatools](https://github.com/anies1212/supatools) | CLI tool that auto-generates Freezed models from Supabase database schema |
+#### Flutter/Dart Packages
 
-#### Developer Experience & CI/CD Tools
-| Project | Description |
-|---------|-------------|
-| [specsentinel](https://github.com/anies1212/specsentinel) | CI tool that compares Flutter UI with Figma design specs and detects mismatches |
-| [store-review-monitor](https://github.com/anies1212/store-review-monitor) | Monitor App Store/Google Play review status with Slack notifications |
-| [flutter-deadline](https://github.com/anies1212/flutter-deadline) | Track code deadlines and send Slack notifications when it's time to refactor |
-| [tag-release-bridge](https://github.com/anies1212/tag-release-bridge) | Auto-comment merged PRs list on release PRs |
-| [jira-pbi-cli](https://github.com/anies1212/jira-pbi-cli) | Browse Jira PBIs from terminal and spin up git branches quickly |
+| Project | What it solves | Why I built it | Level | Skills |
+|---------|---------------|----------------|-------|--------|
+| [iris_camera](https://github.com/anies1212/iris_camera) | Existing Flutter camera plugins lack fine-grained control over lens switching, focus, and exposure | Needed advanced camera features (burst shooting, lens selection, AF/AE monitoring) for production apps | 🏭 Production | Flutter Plugin, AVFoundation, CameraX, Platform Channels |
+| [supatools](https://github.com/anies1212/supatools) | Manually writing Freezed models from Supabase schema is tedious and error-prone | Automate repetitive code generation to speed up development | 📦 Published on pub.dev | Code Generation, Melos Monorepo, Supabase API |
+
+#### CI/CD & Developer Experience Tools
+
+| Project | What it solves | Why I built it | Level | Skills |
+|---------|---------------|----------------|-------|--------|
+| [specsentinel](https://github.com/anies1212/specsentinel) | Manual UI review against Figma specs misses padding/font mismatches | Automate design-to-code verification in CI pipeline | 🏭 Production | Static Analysis, Figma API, GitHub Actions |
+| [store-review-monitor](https://github.com/anies1212/store-review-monitor) | Manually checking App Store/Google Play review status delays response | Get instant Slack notifications when review status changes | 🏭 Production | App Store Connect API, Google Play API, Go, TypeScript |
+| [flutter-deadline](https://github.com/anies1212/flutter-deadline) | Temporary code (workarounds, feature flags) accumulates as tech debt | Track code expiration dates and notify team via Slack | 🏭 Production | Dart Annotations, AST Parsing, GitHub Actions |
+| [tag-release-bridge](https://github.com/anies1212/tag-release-bridge) | Manually listing merged PRs for release notes is time-consuming | Auto-generate release summaries grouped by author and category | 🏭 Production | GitHub API, PR Automation, TypeScript |
+| [jira-pbi-cli](https://github.com/anies1212/jira-pbi-cli) | Context-switching between browser (Jira) and terminal (git) wastes time | Browse Jira and create git branches from one terminal interface | 🏭 Production | Deno, Atlassian OAuth 2.0, CLI/TUI |
 
 ### 📊 GitHub Stats
 
