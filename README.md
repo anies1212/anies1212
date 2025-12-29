@@ -30,16 +30,13 @@ A Flutter/Dart engineer passionate about mobile app development and building CI/
 
 ### 📊 GitHub Stats
 
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anies1212&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anies1212&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=anies1212&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anies1212&layout=compact&theme=tokyonight&hide_border=true)
 
 ### 🏆 GitHub Trophies
 
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=anies1212&theme=tokyonight&no-frame=true&column=6" alt="GitHub Trophies" />
-</p>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anies1212&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15)
 
 ---
 
