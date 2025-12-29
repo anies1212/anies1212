@@ -36,7 +36,7 @@ A Flutter/Dart engineer passionate about mobile app development and building CI/
 
 ### 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anies1212&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15)
+![GitHub Trophies](https://github-trophies.vercel.app/?username=anies1212&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15)
 
 ---
 
