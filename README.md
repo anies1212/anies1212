@@ -17,7 +17,7 @@ A Flutter/Dart engineer passionate about mobile app development and building CI/
 
 | Project | What it solves | Why I built it | Level | Skills |
 |---------|---------------|----------------|-------|--------|
-| [iris_camera](https://github.com/anies1212/iris_camera) | Existing Flutter camera plugins lack fine-grained control over lens switching, focus, and exposure | Needed advanced camera features (burst shooting, lens selection, AF/AE monitoring) for production apps | 🏭 Production | Flutter Plugin, AVFoundation, CameraX, Platform Channels |
+| [iris_camera](https://github.com/anies1212/iris_camera) | Existing Flutter camera plugins lack fine-grained control over lens switching, focus, and exposure | Needed advanced camera features (burst shooting, lens selection, AF/AE monitoring) for production apps | 📦 Published on pub.dev | Flutter Plugin, AVFoundation, CameraX, Platform Channels |
 | [supatools](https://github.com/anies1212/supatools) | Manually writing Freezed models from Supabase schema is tedious and error-prone | Automate repetitive code generation to speed up development | 📦 Published on pub.dev | Code Generation, Melos Monorepo, Supabase API |
 | [fly_to_target](https://github.com/anies1212/fly_to_target) | Complex multi-widget animations to target positions require boilerplate code | Provide a simple API for cart-fly-in effects and similar animations | 📦 Published on pub.dev | Flutter Animation, CustomPainter, Implicit Animations |
 
