@@ -35,7 +35,6 @@ A Flutter/Dart engineer passionate about mobile app development and building CI/
 | [tag-release-bridge](https://github.com/anies1212/tag-release-bridge) | Manually listing merged PRs for release notes is time-consuming | Auto-generate release summaries grouped by author and category | 🏭 Production | GitHub API, PR Automation, TypeScript |
 | [pr-checklist-to-sheets](https://github.com/anies1212/pr-checklist-to-sheets) | Tracking QA checklists across PRs in spreadsheets requires manual copy-paste | Auto-generate Google Sheets checklists from merged PRs, grouped by reviewer | 🏭 Production | Google Sheets API, GitHub API, TypeScript |
 | [jira-pbi-cli](https://github.com/anies1212/jira-pbi-cli) | Context-switching between browser (Jira) and terminal (git) wastes time | Browse Jira and create git branches from one terminal interface | 🏭 Production | Deno, Atlassian OAuth 2.0, CLI/TUI |
-| [go-vuln-gate](https://github.com/anies1212/go-vuln-gate) | govulncheck fails CI on every vulnerability regardless of severity | Gate the pipeline only on high-CVSS, actually-called vulnerabilities, with SARIF output | 🏭 Production | Go, govulncheck, NVD API, GitHub Actions, SARIF |
 | [pub-workspace-gen-action](https://github.com/anies1212/pub-workspace-gen-action) | `build_runner` must run per-package in pub workspaces, and running them sequentially is slow | Run build_runner across all workspace packages in parallel with built-in caching | 🏭 Production | GitHub Actions, Dart build_runner, Bash, Caching |
 
 ### 📊 GitHub Stats
